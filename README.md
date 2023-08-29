@@ -5,11 +5,11 @@ This is a sample python based script that converts pytorch weights into tensorfl
 
 requirments:
 
-timm==0.6.12
-tensorflow==2.5
-torch == 1.10
-cv2
-numpy
+timm==0.6.12\
+tensorflow==2.5\
+torch == 1.10\
+cv2\
+numpy\
 
 ```
 import os
