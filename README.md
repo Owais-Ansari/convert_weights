@@ -9,7 +9,7 @@ timm==0.6.12\
 tensorflow==2.5\
 torch == 1.10\
 cv2\
-numpy\
+numpy
 
 ```
 import os
