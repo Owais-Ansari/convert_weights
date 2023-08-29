@@ -94,8 +94,8 @@ def test_models(pt_model, tf_model):
 #
    
    
-modew_weight_in_pytorch = '../convnext_tiny_1k_224_ema.pth'   
-outdir = '../'
+modew_weight_in_pytorch = './convnext_tiny_1k_224_ema.pth'   
+outdir = './'
 def main():
     os.makedirs('weights', exist_ok=True)
     filename = os.path.basename(modew_weight_in_pytorch)
